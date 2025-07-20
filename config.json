@@ -1,0 +1,13 @@
+{
+  "ticket_message": "Merci pour votre demande, un membre du staff va vous répondre rapidement.",
+  "buttons": [
+    { "label": "Scharmann", "custom_id": "create_ticket_scharmann" },
+    { "label": "Sultan", "custom_id": "create_ticket_sultan" },
+    { "label": "Sunrise", "custom_id": "create_ticket_sunrise" },
+    { "label": "Talligater S", "custom_id": "create_ticket_talligater" }
+  ],
+  "ticket_buttons": [
+    { "label": "✅ Fermer le ticket", "custom_id": "close_ticket", "style": 4 },
+    { "label": "💬 Demander un devis", "custom_id": "request_quote", "style": 1 }
+  ]
+}
